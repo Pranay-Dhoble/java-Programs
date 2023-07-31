@@ -1,7 +1,7 @@
 package Array_Programs;
 public class Array_Palindrom_No {
     public static void main(String[] args) {
-        int a[] = {121, 345, 343, 769, 444};
+        int []a = {121, 345, 343, 769, 444};
         int n ;
         int p = 0;
         for (int i = 0; i < a.length; i++){
