@@ -8,6 +8,6 @@ public class Max_Element {
                 temp = a[i];
             }
         }
-        System.out.println(temp);
+        System.out.println("Maximum Element of this Array is : "+temp);
     }
 }
