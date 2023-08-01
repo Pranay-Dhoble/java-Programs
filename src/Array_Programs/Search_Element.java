@@ -14,7 +14,7 @@ public class Search_Element {
                System.out.println("Given Element is Present in Array and its Index Number is  :"+ i);
             }
         }
-        if(present == false){
+        if(!present){
             System.out.println("Given Element is Absent in Array ");
         }
     }
